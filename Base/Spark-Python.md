@@ -6,8 +6,8 @@
 
 ​	解压Spark安装包到Windows本地路径，路径中最好没有空格。
 
-<img src="..\image\image-20220901090018647.png" alt="image-20220901090018647" style="zoom:40%;" />
 
+<img src=" image\image-20220901090018647.png" alt="image-20220901090018647" style="zoom:40%;" />
 
 
 ## 1.2 Linux安装Python
